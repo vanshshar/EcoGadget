@@ -1,0 +1,18 @@
+:root {
+    --primary-color: #4CAF50;
+    --secondary-color: #45a049;
+}
+.bg-primary-gradient {
+    background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+}
+.text-primary-custom {
+    color: var(--primary-color);
+}
+.btn-primary-custom {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+.btn-primary-custom:hover {
+    background-color: var(--secondary-color);
+    border-color: var(--secondary-color);
+}

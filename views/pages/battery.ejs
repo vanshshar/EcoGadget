@@ -1,0 +1,168 @@
+<%- layout("../layout/boilerplate.ejs") %>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EcoGadgets - Sustainable Battery Recycling Solutions</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body class="flex flex-col min-h-screen">
+    <header class="px-4 lg:px-6 h-14 flex items-center">
+        <a class="flex items-center justify-center" href="#">
+            <i data-lucide="recycle" class="h-6 w-6 text-green-600"></i>
+            <span class="ml-2 text-2xl font-bold text-gray-900">EcoGadgets</span>
+        </a>
+        <nav class="ml-auto flex gap-4 sm:gap-6">
+            <a class="text-sm font-medium hover:underline underline-offset-4" href="#features">Features</a>
+            <a class="text-sm font-medium hover:underline underline-offset-4" href="#about">About</a>
+            <a class="text-sm font-medium hover:underline underline-offset-4" href="#process">Our Process</a>
+            <a class="text-sm font-medium hover:underline underline-offset-4" href="#contact">Contact</a>
+        </nav>
+    </header>
+    <main class="flex-1">
+        <section class="w-full py-12 md:py-24 lg:py-32 xl:py-48 bg-green-100">
+            <div class="container px-4 md:px-6">
+                <div class="flex flex-col items-center space-y-4 text-center">
+                    <div class="space-y-2">
+                        <h1 class="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none">
+                            Sustainable Battery Recycling Solutions
+                        </h1>
+                        <p class="mx-auto max-w-[700px] text-gray-600 md:text-xl">
+                            EcoGadgets is revolutionizing lithium-ion battery recycling, creating a circular economy for critical battery materials.
+                        </p>
+                    </div>
+                    <div class="space-x-4">
+                        <a href="#" class="inline-flex items-center justify-center rounded-md bg-green-600 px-4 py-2 text-sm font-medium text-white hover:bg-green-700">Learn More</a>
+                        <a href="#" class="inline-flex items-center justify-center rounded-md border border-gray-200 bg-white px-4 py-2 text-sm font-medium text-gray-900 hover:bg-gray-100">Contact Us</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="features" class="w-full py-12 md:py-24 lg:py-32 bg-white">
+            <div class="container px-4 md:px-6">
+                <h2 class="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center mb-8">Our Features</h2>
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                    <div class="flex flex-col items-center text-center">
+                        <i data-lucide="battery" class="h-12 w-12 text-green-600 mb-4"></i>
+                        <h3 class="text-xl font-bold mb-2">Safe Battery Recycling</h3>
+                        <p class="text-gray-600">State-of-the-art processes ensure safe and efficient recycling of lithium-ion batteries.</p>
+                    </div>
+                    <div class="flex flex-col items-center text-center">
+                        <i data-lucide="leaf" class="h-12 w-12 text-green-600 mb-4"></i>
+                        <h3 class="text-xl font-bold mb-2">Eco-Friendly Solutions</h3>
+                        <p class="text-gray-600">Our methods significantly reduce environmental impact compared to traditional disposal.</p>
+                    </div>
+                    <div class="flex flex-col items-center text-center">
+                        <i data-lucide="circle-dollar-sign" class="h-12 w-12 text-green-600 mb-4"></i>
+                        <h3 class="text-xl font-bold mb-2">Resource Recovery</h3>
+                        <p class="text-gray-600">We recover valuable materials, supporting the growing demand for sustainable energy storage.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="about" class="w-full py-12 md:py-24 lg:py-32 bg-green-50">
+            <div class="container px-4 md:px-6">
+                <div class="grid items-center gap-6 lg:grid-cols-2 lg:gap-12">
+                    <div class="space-y-4">
+                        <h2 class="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Creating a Circular Economy</h2>
+                        <p class="text-gray-600 md:text-xl">
+                            At EcoGadgets, we're committed to closing the loop in battery production. By recycling end-of-life batteries, we're reducing waste,
+                            conserving natural resources, and supporting the transition to sustainable energy.
+                        </p>
+                    </div>
+                    <div class="flex justify-center">
+                        <img
+                            alt="Circular Economy Diagram"
+                            class="rounded-xl object-cover"
+                            height="400"
+                            src="/assets/battery_saviour.png"
+                            style="aspect-ratio: 400/400; object-fit: cover;"
+                            width="400"
+                        />
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="process" class="w-full py-12 md:py-24 lg:py-32 bg-white">
+            <div class="container px-4 md:px-6">
+                <h2 class="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center mb-8">Our Spoke and Hub Model</h2>
+                <div class="grid gap-8 lg:grid-cols-2">
+                    <div class="space-y-4">
+                        <h3 class="text-2xl font-bold">Step 1: Spokes</h3>
+                        <p class="text-gray-600">
+                            All types of lithium-ion batteries are shredded in a safe and efficient manner. 'Generation 3' Spoke utilizes patented technology to directly process full EV battery packs without discharging or dismantling.
+                        </p>
+                        <ul class="list-disc list-inside space-y-2 text-gray-600">
+                            <li>Minimal solid and liquid waste</li>
+                            <li>Zero combustion</li>
+                            <li>Zero wastewater discharge</li>
+                            <li>Relatively low air emissions</li>
+                        </ul>
+                        <p class="text-gray-600 font-semibold">
+                            HYDROMETALLURGICAL PROCESSING TO PRODUCE CRITICAL BATTERY MATERIALS
+                        </p>
+                    </div>
+                    <div class="flex justify-center items-center">
+                        <img
+                            alt="Spoke Process Diagram"
+                            class="rounded-xl object-cover"
+                            height="300"
+                            src="/assets/ev.webp"
+                            style="aspect-ratio: 400/300; object-fit: cover;"
+                            width="400"
+                        />
+                    </div>
+                </div>
+                <div class="mt-12 space-y-4">
+                    <h3 class="text-2xl font-bold">Step 2: Hubs</h3>
+                    <p class="text-gray-600">
+                        Black mass is processed to produce high-quality end products for reuse in lithium-ion battery production or other applications in the broader economy.
+                    </p>
+                    <div class="grid gap-6 md:grid-cols-2">
+                        <div class="bg-green-50 p-6 rounded-lg">
+                            <h4 class="text-xl font-semibold mb-2">Rochester Hub</h4>
+                            <p class="text-gray-600">
+                                Expected to be the first facility of its kind and first source of recycled battery-grade lithium carbonate production in North America. Construction at the project is currently paused.
+                            </p>
+                        </div>
+                        <div class="bg-green-50 p-6 rounded-lg">
+                            <h4 class="text-xl font-semibold mb-2">Portovesme Hub</h4>
+                            <p class="text-gray-600">
+                                Expected to be one of the largest sources of recycled battery grade products in Europe. The project is currently paused and under review.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="contact" class="w-full py-12 md:py-24 lg:py-32 bg-green-100">
+            <div class="container px-4 md:px-6">
+                <div class="flex flex-col items-center space-y-4 text-center">
+                    <div class="space-y-2">
+                        <h2 class="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Join the Recycling Revolution</h2>
+                        <p class="mx-auto max-w-[600px] text-gray-600 md:text-xl">
+                            Ready to make a difference? Contact us to learn more about our recycling solutions or to schedule a pickup.
+                        </p>
+                    </div>
+                    <div class="w-full max-w-sm space-y-2">
+                        <form class="flex flex-col gap-2">
+                            <input class="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50" placeholder="Enter your email" type="email" />
+                            <button class="inline-flex items-center justify-center rounded-md bg-green-600 px-4 py-2 text-sm font-medium text-white hover:bg-green-700" type="submit">Get Started</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer class="flex flex-col gap-2 sm:flex-row py-6 w-full shrink-0 items-center px-4 md:px-6 border-t">
+        <p class="text-xs text-gray-600">© <%= new Date().getFullYear() %> EcoGadgets. All rights reserved.</p>
+        <nav class="sm:ml-auto flex gap-4 sm:gap-6">
+            <a class="text-xs hover:underline underline-offset-4" href="#">Terms of Service</a>
+            <a class="text-xs hover:underline underline-offset-4" href="#">Privacy</a>
+        </nav>
+    </footer>
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+</html>
