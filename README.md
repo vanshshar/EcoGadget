@@ -1,15 +1,15 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
 </p>
-<p align="center"><h1 align="center">ECOGADGET</h1></p>
+<p align="center"><h1 align="center">ECOGADGET.GIT</h1></p>
 <p align="center">
 	<em><code>❯ REPLACE-ME</code></em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/vanshshar/EcoGadget?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/vanshshar/EcoGadget?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/vanshshar/EcoGadget?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/vanshshar/EcoGadget?style=default&color=0080ff" alt="repo-language-count">
+	<img src="https://img.shields.io/github/license/vanshshar/EcoGadget.git?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/last-commit/vanshshar/EcoGadget.git?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/vanshshar/EcoGadget.git?style=default&color=0080ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/vanshshar/EcoGadget.git?style=default&color=0080ff" alt="repo-language-count">
 </p>
 <p align="center"><!-- default option, no dependency badges. -->
 </p>
@@ -51,7 +51,7 @@
 ##  Project Structure
 
 ```sh
-└── EcoGadget/
+└── EcoGadget.git/
     ├── LICENSE
     ├── README.md
     ├── app.js
@@ -94,25 +94,25 @@
 
 ###  Project Index
 <details open>
-	<summary><b><code>ECOGADGET/</code></b></summary>
+	<summary><b><code>ECOGADGET.GIT/</code></b></summary>
 	<details> <!-- __root__ Submodule -->
 		<summary><b>__root__</b></summary>
 		<blockquote>
 			<table>
 			<tr>
-				<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/app.js'>app.js</a></b></td>
+				<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/app.js'>app.js</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/package-lock.json'>package-lock.json</a></b></td>
+				<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/package-lock.json'>package-lock.json</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/middleware.js'>middleware.js</a></b></td>
+				<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/middleware.js'>middleware.js</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/package.json'>package.json</a></b></td>
+				<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/package.json'>package.json</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			</table>
@@ -123,11 +123,11 @@
 		<blockquote>
 			<table>
 			<tr>
-				<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/init/data.js'>data.js</a></b></td>
+				<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/init/data.js'>data.js</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/init/init.js'>init.js</a></b></td>
+				<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/init/init.js'>init.js</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			</table>
@@ -138,27 +138,27 @@
 		<blockquote>
 			<table>
 			<tr>
-				<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/controllers/sell.js'>sell.js</a></b></td>
+				<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/controllers/sell.js'>sell.js</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/controllers/products.js'>products.js</a></b></td>
+				<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/controllers/products.js'>products.js</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/controllers/home.js'>home.js</a></b></td>
+				<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/controllers/home.js'>home.js</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/controllers/login.js'>login.js</a></b></td>
+				<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/controllers/login.js'>login.js</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/controllers/buy.js'>buy.js</a></b></td>
+				<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/controllers/buy.js'>buy.js</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/controllers/signup.js'>signup.js</a></b></td>
+				<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/controllers/signup.js'>signup.js</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			</table>
@@ -169,7 +169,7 @@
 		<blockquote>
 			<table>
 			<tr>
-				<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/validators/signup.js'>signup.js</a></b></td>
+				<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/validators/signup.js'>signup.js</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			</table>
@@ -180,15 +180,15 @@
 		<blockquote>
 			<table>
 			<tr>
-				<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/models/Delivery.js'>Delivery.js</a></b></td>
+				<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/models/Delivery.js'>Delivery.js</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/models/Product.js'>Product.js</a></b></td>
+				<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/models/Product.js'>Product.js</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/models/User.js'>User.js</a></b></td>
+				<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/models/User.js'>User.js</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			</table>
@@ -202,31 +202,31 @@
 				<blockquote>
 					<table>
 					<tr>
-						<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/views/pages/home.ejs'>home.ejs</a></b></td>
+						<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/views/pages/home.ejs'>home.ejs</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/views/pages/buy.ejs'>buy.ejs</a></b></td>
+						<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/views/pages/buy.ejs'>buy.ejs</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/views/pages/products.ejs'>products.ejs</a></b></td>
+						<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/views/pages/products.ejs'>products.ejs</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/views/pages/signup.ejs'>signup.ejs</a></b></td>
+						<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/views/pages/signup.ejs'>signup.ejs</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/views/pages/login.ejs'>login.ejs</a></b></td>
+						<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/views/pages/login.ejs'>login.ejs</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/views/pages/sell.ejs'>sell.ejs</a></b></td>
+						<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/views/pages/sell.ejs'>sell.ejs</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/views/pages/battery.ejs'>battery.ejs</a></b></td>
+						<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/views/pages/battery.ejs'>battery.ejs</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					</table>
@@ -237,7 +237,7 @@
 				<blockquote>
 					<table>
 					<tr>
-						<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/views/layout/boilerplate.ejs'>boilerplate.ejs</a></b></td>
+						<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/views/layout/boilerplate.ejs'>boilerplate.ejs</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					</table>
@@ -248,15 +248,15 @@
 				<blockquote>
 					<table>
 					<tr>
-						<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/views/includes/navbar.ejs'>navbar.ejs</a></b></td>
+						<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/views/includes/navbar.ejs'>navbar.ejs</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/views/includes/flash.ejs'>flash.ejs</a></b></td>
+						<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/views/includes/flash.ejs'>flash.ejs</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/views/includes/footer.ejs'>footer.ejs</a></b></td>
+						<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/views/includes/footer.ejs'>footer.ejs</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					</table>
@@ -269,27 +269,27 @@
 		<blockquote>
 			<table>
 			<tr>
-				<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/routes/sell.js'>sell.js</a></b></td>
+				<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/routes/sell.js'>sell.js</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/routes/products.js'>products.js</a></b></td>
+				<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/routes/products.js'>products.js</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/routes/home.js'>home.js</a></b></td>
+				<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/routes/home.js'>home.js</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/routes/login.js'>login.js</a></b></td>
+				<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/routes/login.js'>login.js</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/routes/buy.js'>buy.js</a></b></td>
+				<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/routes/buy.js'>buy.js</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/routes/signup.js'>signup.js</a></b></td>
+				<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/routes/signup.js'>signup.js</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			</table>
@@ -303,7 +303,7 @@
 				<blockquote>
 					<table>
 					<tr>
-						<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/public/css/style.css'>style.css</a></b></td>
+						<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/public/css/style.css'>style.css</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					</table>
@@ -314,11 +314,11 @@
 				<blockquote>
 					<table>
 					<tr>
-						<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/public/scripts/signupScript.js'>signupScript.js</a></b></td>
+						<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/public/scripts/signupScript.js'>signupScript.js</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/vanshshar/EcoGadget/blob/master/public/scripts/loginScript.js'>loginScript.js</a></b></td>
+						<td><b><a href='https://github.com/vanshshar/EcoGadget.git/blob/master/public/scripts/loginScript.js'>loginScript.js</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					</table>
@@ -333,7 +333,7 @@
 
 ###  Prerequisites
 
-Before getting started with EcoGadget, ensure your runtime environment meets the following requirements:
+Before getting started with EcoGadget.git, ensure your runtime environment meets the following requirements:
 
 - **Programming Language:** JavaScript
 - **Package Manager:** Npm
@@ -341,18 +341,18 @@ Before getting started with EcoGadget, ensure your runtime environment meets the
 
 ###  Installation
 
-Install EcoGadget using one of the following methods:
+Install EcoGadget.git using one of the following methods:
 
 **Build from source:**
 
-1. Clone the EcoGadget repository:
+1. Clone the EcoGadget.git repository:
 ```sh
-❯ git clone https://github.com/vanshshar/EcoGadget
+❯ git clone https://github.com/vanshshar/EcoGadget.git
 ```
 
 2. Navigate to the project directory:
 ```sh
-❯ cd EcoGadget
+❯ cd EcoGadget.git
 ```
 
 3. Install the project dependencies:
@@ -368,7 +368,7 @@ Install EcoGadget using one of the following methods:
 
 
 ###  Usage
-Run EcoGadget using the following command:
+Run EcoGadget.git using the following command:
 **Using `npm`** &nbsp; [<img align="center" src="https://img.shields.io/badge/npm-CB3837.svg?style={badge_style}&logo=npm&logoColor=white" />](https://www.npmjs.com/)
 
 ```sh
@@ -396,9 +396,9 @@ Run the test suite using the following command:
 
 ##  Contributing
 
-- **💬 [Join the Discussions](https://github.com/vanshshar/EcoGadget/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/vanshshar/EcoGadget/issues)**: Submit bugs found or log feature requests for the `EcoGadget` project.
-- **💡 [Submit Pull Requests](https://github.com/vanshshar/EcoGadget/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+- **💬 [Join the Discussions](https://github.com/vanshshar/EcoGadget.git/discussions)**: Share your insights, provide feedback, or ask questions.
+- **🐛 [Report Issues](https://github.com/vanshshar/EcoGadget.git/issues)**: Submit bugs found or log feature requests for the `EcoGadget.git` project.
+- **💡 [Submit Pull Requests](https://github.com/vanshshar/EcoGadget.git/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 
 <details closed>
 <summary>Contributing Guidelines</summary>
@@ -406,7 +406,7 @@ Run the test suite using the following command:
 1. **Fork the Repository**: Start by forking the project repository to your github account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
    ```sh
-   git clone https://github.com/vanshshar/EcoGadget
+   git clone https://github.com/vanshshar/EcoGadget.git
    ```
 3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
    ```sh
@@ -429,8 +429,8 @@ Run the test suite using the following command:
 <summary>Contributor Graph</summary>
 <br>
 <p align="left">
-   <a href="https://github.com{/vanshshar/EcoGadget/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=vanshshar/EcoGadget">
+   <a href="https://github.com{/vanshshar/EcoGadget.git/}graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=vanshshar/EcoGadget.git">
    </a>
 </p>
 </details>
